@@ -40,8 +40,8 @@ pip install .
 ```python
 import loompy as lp
 
-# considering segments defined before
 # Define a simple plain weave with 2 warp and 2 weft yarns
+# considering segments defined before
 m = lp.Mesh(warp = [warp_segment_010, warp_segment_101], 
             weft = [weft_segment_101, weft_segment_010], 
             space = 1, 
