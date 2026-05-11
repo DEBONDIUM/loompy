@@ -100,12 +100,9 @@ MIT License — see [LICENSE](LICENSE) for details.
 
 ## 👨‍🏫 Acknowledgments
 
-This library is developed for researchers and engineers working in **textile mechanics**, **multiscale modeling**, and **computational weaving**.  
-If you use `loompy` in your work, please consider citing it or linking to the repository.
+This library was developed within the fruitful collaboration inside a french consortium funded by the [french defense innovation agency](https://www.defense.gouv.fr/aid). Members of this consortium were the [LPMT lab](https://www.lpmt.uha.fr/), the [Saint-Louis institute](https://www.isl.eu/), the company [Porcher Industries](https://www.porcher-ind.com/fr) and the [I2M lab](https://www.i2m.u-bordeaux.fr/).
 
-> _“In the breaking of things lies the story of how they were made.”_
-
-
+---
 
 ## 👤 Authors
 
