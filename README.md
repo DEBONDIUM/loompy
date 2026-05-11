@@ -10,10 +10,11 @@
 ## 📦 Features
 
 - 🧵 Generate structured meshes for woven textiles  
-- 🧮 Define custom weave patterns (plain, twill, satin, or user-defined)  
+- 🧮 Define custom weave patterns (plain, twill, satin, or user-defined)
+- 🧮 Give orientation axis for anisotropic constitutive law  
 - 🔗 Automatic handling of thread interlacing and contact points  
 - 📐 Export meshes to standard formats for simulation tools  
-- 🧰 Lightweight and easy to integrate with existing FEM/DEM workflows  
+- 🧰 Lightweight and easy to integrate with existing FEM/DEM workflows (abaqus, granOO, etc ...)
 
 ---
 
@@ -103,3 +104,10 @@ This library is developed for researchers and engineers working in **textile mec
 If you use `loompy` in your work, please consider citing it or linking to the repository.
 
 > _“In the breaking of things lies the story of how they were made.”_
+
+
+
+## 👤 Authors
+
+Luc Brémaud, Jérémie Girardot
+
